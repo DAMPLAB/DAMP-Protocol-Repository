@@ -20,7 +20,7 @@ To export a workflow, go to the drop-down menu located at the top left of the Aq
 
 There are two ways to export workflows, one is generating a simple workflow (.aq) file, or you can generate an entire Github repository and webpage for your workflow.
 
-Additional export instruction can be found under  [Community / Exporting](https://www.aquarium.bio/)
+Additional exporting instruction can be found under  [Community / Exporting](https://www.aquarium.bio/)
 
 ## Authors
 * **Rita R. Chen** - [rychen58](https://github.com/rychen58)

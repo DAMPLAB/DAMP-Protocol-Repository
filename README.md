@@ -13,6 +13,8 @@ Additional information about Aquarium can be found [here](https://www.aquarium.b
 ## Import Workflows
 To import a workflow, go to the drop-down menu located at the top left of the Aquarium interface, select **Import Workflows**. Click **LOAD** and choose the .aq file from your local computer.
 
+**Note:** It's a good practice to make a back up of your Aquarium database before importing a workflow. At this time, there is no easy way to un-import in Aquarium.
+
 Additional importing instruction can be found under [Community / Importing](https://www.aquarium.bio/)
 
 ## Export Workflows

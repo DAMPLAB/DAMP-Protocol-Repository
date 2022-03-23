@@ -16,7 +16,7 @@ To import a workflow, go to the drop-down menu located at the top left of the Aq
 ## Export Workflows
 To export a workflow, go to the drop-down menu located at the top left of the Aquarium interface, select **Export Workflows**. Select the operation types and libraries for export under the **Workflow Components** panel.
 
-There are two way to export workflows, one is generating a simple workflow (.aq) file, or you can generate an entire Github repository and webpage for your workflow. Additional export instruction can be found [here](https://www.aquarium.bio/)
+There are two ways to export workflows, one is generating a simple workflow (.aq) file, or you can generate an entire Github repository and webpage for your workflow. Additional export instruction can be found [here](https://www.aquarium.bio/)
 
 ## Authors
 * **Rita R. Chen** - [rychen58](https://github.com/rychen58)
